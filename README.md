@@ -19,6 +19,12 @@ a structured, day-by-day training plan with persistent session notes.
 - Generation is chunked to avoid token limits
 - Invalid AI responses are detected and shown to the user through the UI
 
+## Acknowledgements
+
+This project was bootstrapped using a Vanilla Chat Workers AI (https://github.com/craigsdennis/vanilla-chat-workers-ai) chat example provided by Cloudflare.
+All application logic, prompts, workflows, and UI behavior were implemented specifically for
+this project and are original work.
+
 ## Running Locally
 ```bash
 npm install
