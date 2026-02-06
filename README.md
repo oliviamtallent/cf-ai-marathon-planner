@@ -34,3 +34,6 @@ npx wrangler login
 
 npm run dev
 ```
+
+## Cloudflare Deployment
+https://cf-ai-marathon-planner.pages.dev/
